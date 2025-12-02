@@ -1,4 +1,4 @@
-# 📊 Sales Funnel Analysis — Executive Summary
+# Funnel Analysis — Executive Summary
 
 ![CI](https://github.com/krishnamurthi-ramesh/sales-funnel-analysis-main/actions/workflows/ci.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Status](https://img.shields.io/badge/status-Proof%20of%20Concept-orange.svg)
 
