@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (kept locally for analysis)
+data/
